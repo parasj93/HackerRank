@@ -36,7 +36,6 @@ public class smallestValue {
 	}
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		// TODO Auto-generated method stub
 		smallestValue sm=new smallestValue();
 		System.out.println("Please Enter 3 inputs");
 		int a =sc.nextInt();
