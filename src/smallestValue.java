@@ -41,6 +41,7 @@ public class smallestValue {
 		int a =sc.nextInt();
 		int b =sc.nextInt();
 		int c =sc.nextInt();
+		//This is only for test purpose
 		System.out.println("Please Enter 4 inputs");
 		int d =sc.nextInt();
 		int e =sc.nextInt();
