@@ -29,7 +29,7 @@ public class Scan
     {
         int integer=0;
         int n=scan();
-        while(isWhiteSpace(n))    //Removing starting whitespaces
+        while(isWhiteSpace(n))    //checking the commit is possible or not
         n=scan();
         int neg=1;
         if(n=='-')                //If Negative Sign encounters
